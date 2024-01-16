@@ -61,11 +61,16 @@
   * 2023- Summer: **Undergraduate Research Student**, Intelligence and Interactive Robotics Lab, GNU, Jinju, Republic of Korea.
   * 2023- Winter: **Research Intern**, Intelligence and Interactive Robotics Lab,GNU, Jinju, Republic of Korea.
 
-### [Languages and Tools]
+### [LANGUAGES AND TOOLS]
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=Matlab)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor
 
 
+### [ENGLISH PROFICIENCY]
+* Toefl(home toefl IBT) : 85
+* Duolingo test : 115
 
 
 
