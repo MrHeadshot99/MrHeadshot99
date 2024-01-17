@@ -56,7 +56,7 @@
 *  2017–2023 B.S., Gyeongsang National University (GNU), Jinju, Republic of Korea. Discipline: Mechanical Engineering
 
 ### [EXPERIENCE]
-  * 2021–2022: **Undergraduate Research Student**, Composite Structure Lab, GNU,Jinju, Republic of Korea.
+  * 2021–2022: **Vacation Lab Program**, Composite Structure Lab, GNU,Jinju, Republic of Korea.
   * 2022- Winter: **Undergraduate Research Student**, Safe Search Lab, GNU,Jinju, Republic of Korea.
   * 2023- Summer: **Undergraduate Research Student**, Intelligence and Interactive Robotics Lab, GNU, Jinju, Republic of Korea.
   * 2023- Winter: **Research Intern**, Intelligence and Interactive Robotics Lab,GNU, Jinju, Republic of Korea.
