@@ -2,8 +2,24 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](subinkimcs99@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/subin99cs/)
+![CV](https://github.com/MrHeadshot99/MrHeadshot99/files/13961014/Su-Bin.Kim.Resume.pdf) ![Portfolio]([URL_for_Portfolio_icon](https://github.com/MrHeadshot99/MrHeadshot99/files/13961019/Su-bin.Kim.Portfolio.-.pdf))
+
+
+
 
 ### [Previous Project]
+
+#### Ankle Mobility Assistance Robot Utilizing Reinforcement Learning [2023/07 ~ 2023/12]
+  - **Work:** Initiated the concept and set up the initial environment for a robotic orthosis project
+  - **Project Description:** Designing and training a robotic orthosis controller using a human model integrated
+with bones and a skeletal structure within a computer simulation Environment
+(OpenSim +OpenSim-RL) and fine-tuning the motor's parameters in the robot using
+reinforcement learning (Proximal Policy Optimization Algorithm) to aid patients with
+impaired mobility.
+ - **Member:** **Subin Kim**, Hyunbin Kim, Intelligence and Interactive Robotics Lab, GNU, Jinju, Republic of Korea.
+
+
+
 #### Final-Term project in the Course of machine learning /AI basic [2023/03 ~ 2023/06]
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MrHeadshot99/Reinforcement-Learning-in-Atari-game-Pong_v0)<br/>
   - **Project Name:** Reinforcement Learning in Atari-game Pong_ v0<br/>
