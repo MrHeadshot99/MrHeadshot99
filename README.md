@@ -4,7 +4,16 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/subin99cs/)
 ![CV](https://github.com/MrHeadshot99/MrHeadshot99/files/13961014/Su-Bin.Kim.Resume.pdf) ![Portfolio]([URL_for_Portfolio_icon](https://github.com/MrHeadshot99/MrHeadshot99/files/13961019/Su-bin.Kim.Portfolio.-.pdf))
 
+### [LANGUAGES AND TOOLS]
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=Matlab)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
+
+### [ENGLISH PROFICIENCY]
+* Toefl(home toefl IBT) : 85
+* Duolingo test : 115
 
 
 ### [Previous Project]
@@ -77,16 +86,7 @@ impaired mobility.
   * 2023- Summer: **Undergraduate Research Student**, Intelligence and Interactive Robotics Lab, GNU, Jinju, Republic of Korea.
   * 2023- Winter: **Research Intern**, Intelligence and Interactive Robotics Lab,GNU, Jinju, Republic of Korea.
 
-### [LANGUAGES AND TOOLS]
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=Matlab)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-
-### [ENGLISH PROFICIENCY]
-* Toefl(home toefl IBT) : 85
-* Duolingo test : 115
 
 
 
