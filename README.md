@@ -77,7 +77,7 @@ impaired mobility.
 
 
 ### [EDUCATION]
-*  2024– Summer WASSUP AI Model Developer Bootcamp 2nd Cohort (Upcoming), EST soft, Republic of Korea.
+*  2024– Summer WASSUP AI Model Developer Bootcamp 2nd Cohort (Upcoming), EST soft, Republic of Korea. [https://www.notion.so/oreumi/d529f8f665f54696bfb04102f477859a]
 *  2017–2023 B.S., Gyeongsang National University (GNU), Jinju, Republic of Korea. Discipline: Mechanical Engineering
 
 ### [EXPERIENCE]
