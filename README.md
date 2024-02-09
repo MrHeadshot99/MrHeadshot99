@@ -2,7 +2,8 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](subinkimcs99@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/subin99cs/)
-![CV](https://github.com/MrHeadshot99/MrHeadshot99/files/13961014/Su-Bin.Kim.Resume.pdf) ![Portfolio]([URL_for_Portfolio_icon](https://github.com/MrHeadshot99/MrHeadshot99/files/13961019/Su-bin.Kim.Portfolio.-.pdf))
+![CV](https://github.com/MrHeadshot99/MrHeadshot99/files/14222288/Su-Bin.Kim.Resume.pdf) ![Portfolio]([URL_for_Portfolio_icon](https://github.com/MrHeadshot99/MrHeadshot99/files/13961019/Su-bin.Kim.Portfolio.-.pdf))
+
 
 ### [LANGUAGES AND TOOLS]
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -77,7 +78,7 @@ impaired mobility.
 
 
 ### [EDUCATION]
-*  2024– Summer WASSUP AI Model Developer Bootcamp 2nd Cohort (Upcoming), EST soft, Republic of Korea. [https://www.notion.so/oreumi/d529f8f665f54696bfb04102f477859a]
+*  2024– Summer WASSUP AI Model Developer Bootcamp 2nd Cohort, EST soft, Republic of Korea. [https://www.notion.so/oreumi/d529f8f665f54696bfb04102f477859a]
 *  2017–2023 B.S., Gyeongsang National University (GNU), Jinju, Republic of Korea. Discipline: Mechanical Engineering
 
 ### [EXPERIENCE]
