@@ -2,7 +2,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](subinkimcs99@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/subin99cs/)
-![CV](https://github.com/user-attachments/files/17039549/resume.1.pdf) ![Portfolio]([URL_for_Portfolio_icon](https://github.com/MrHeadshot99/MrHeadshot99/files/13961019/Su-bin.Kim.Portfolio.-.pdf))
+![CV](https://github.com/user-attachments/files/17039549/resume.1.pdf) ![Portfolio]([URL_for_Portfolio_icon](https://github.com/MrHeadshot99/Portfolio.git))
 
 
 
