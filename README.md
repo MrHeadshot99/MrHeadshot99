@@ -19,13 +19,16 @@ Currently exploring **HSI for crop disease detection**, **deepfake detection**, 
 ---
 
 ## 🧠 Research & Technical Interests
-[Recent Research]
-- 🌾 ** Agricultural Computer Vision** – UAV hyperspectral imaging, plant disease detection, band selection
-[- Previous Research and Project History]
+
+### 🔍 Recent Research
+- 🌾 **Agricultural Computer Vision** – UAV hyperspectral imaging, plant disease detection, band selection
+
+### 📚 Previous Research and Project History
 - 🖼️ **Image & Video Forensics** – deepfake detection with traditional ML
-- 🧬 **Medical Imaging** – 3D CT fracture detection, preprocessing pipelines and baselines  
+- 🧬 **Medical Imaging** – 3D CT fracture detection, preprocessing pipelines and baselines
 - 📊 **Structured Data ML** – tabular modeling for real-estate and intrusion detection
-[the techniques I'm currently learning]
+
+### 🛠️ Techniques I'm Currently Learning
 - 🧩 **AI Systems & LLMs** – foundation models, RAG, deployment-aware architectures
 
 ---
