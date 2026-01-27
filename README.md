@@ -10,7 +10,7 @@ I enjoy turning ambiguous real-world problems into **end-to-end ML pipelines**:
 - building and tuning ML/DL models in Python  
 - delivering **reproducible, metric-driven proof-of-concepts**.
 
-Currently exploring **HSI for crop disease detection**, **deepfake detection**, and **LLM-based AI systems architecture**.
+Currently exploring **HSI for crop disease detection**, and **LLM-based AI systems architecture**.
 
   </td>
   </tr>
