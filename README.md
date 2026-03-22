@@ -180,7 +180,8 @@ B.S. in Mechanical Engineering (March 2017 – August 2023)
 
 ---
 ## 🎤 Selected Technical Seminars
-<img width="1643" height="625" alt="image" src="https://github.com/user-attachments/assets/aac1b1f6-28f1-42ea-8757-a348a69583a0" />
+<img width="1670" height="659" alt="image" src="https://github.com/user-attachments/assets/24c39d02-d481-4a0f-88d1-1eb8d3ff9e7e" />
+
 
 - Participated in the **GNU–UPenn Collaborative Academic Research Seminar Series**, University of Pennsylvania (2022)  
 - Attended technical seminars and hands-on sessions on **computer vision, SLAM, motion planning, and model predictive control**, gaining interdisciplinary exposure to robotics, perception, and autonomous systems  
