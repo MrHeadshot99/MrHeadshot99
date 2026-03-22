@@ -149,12 +149,15 @@ B.S. in Mechanical Engineering (March 2017 – August 2023)
 
 - **Second Prize (Sonnet.ai Proprietor Award)**  
   The 1st F1Tenth Korea Championship, 2022, KSMTE, Republic of Korea.
+  <img width="566" height="828" alt="image" src="https://github.com/user-attachments/assets/61e095c4-b2bb-434a-90fe-bf88599b115a" />
+
   <img width="598" height="457" alt="image" src="https://github.com/user-attachments/assets/6a1e2386-ab89-4089-9ae2-c9179654991e" />
   
 
 - **Second Prize (College of Engineering Dean’s Award)**  
   2022 GNU Creative Challenge Design-Based Idea Competition, Gyeongsang National University.
-  <img width="528" height="537" alt="image" src="https://github.com/user-attachments/assets/5e8615e9-6ab6-47a2-85bd-d61de16781be" />
+  <img width="529" height="768" alt="image" src="https://github.com/user-attachments/assets/3dd04148-1124-4b6d-ad90-9618c7fb9bba" />
+
 
 ---
 
