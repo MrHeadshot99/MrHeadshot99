@@ -154,6 +154,7 @@ B.S. in Mechanical Engineering (March 2017 – August 2023)
 
 - **Second Prize (College of Engineering Dean’s Award)**  
   2022 GNU Creative Challenge Design-Based Idea Competition, Gyeongsang National University.
+  <img width="528" height="537" alt="image" src="https://github.com/user-attachments/assets/5e8615e9-6ab6-47a2-85bd-d61de16781be" />
 
 ---
 
