@@ -179,6 +179,13 @@ B.S. in Mechanical Engineering (March 2017 – August 2023)
 - Duolingo English Test: **115**
 
 ---
+## 🎤 Selected Technical Seminars
+<img width="1643" height="625" alt="image" src="https://github.com/user-attachments/assets/aac1b1f6-28f1-42ea-8757-a348a69583a0" />
+
+- Participated in the **GNU–UPenn Collaborative Academic Research Seminar Series**, University of Pennsylvania (2022)  
+- Attended technical seminars and hands-on sessions on **computer vision, SLAM, motion planning, and model predictive control**, gaining interdisciplinary exposure to robotics, perception, and autonomous systems  
+
+---
 
 > _“I like models that not only perform well on benchmarks,  
 > but also make sense with the data and constraints of the real world.”_
